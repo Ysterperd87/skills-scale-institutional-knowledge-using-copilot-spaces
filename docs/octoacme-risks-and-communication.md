@@ -39,4 +39,4 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, the **Security Champion** leads triage and remediation, follows the security incident runbook, and notifies Security on-call. The Release Manager and Support Lead are engaged to coordinate response and customer communication. See [`octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md) for full Security Champion responsibilities.
